@@ -272,9 +272,3 @@ The runner saves JSON-lines logs, model payloads, update histories, and serializ
 DataLoader bundles. These files can be large and are excluded by `.gitignore`.
 PyTorch pickle and dill files must only be loaded from trusted sources.
 
-## License Notice
-
-This repository contains code derived from or inspired by the FedAU project.
-Read [NOTICE.md](NOTICE.md) before redistribution. The license or redistribution
-permission for inherited source files must be confirmed before publishing the
-repository under a new `LICENSE`.

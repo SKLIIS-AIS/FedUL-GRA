@@ -1,0 +1,15 @@
+name: fedau
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip=24
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch==2.7.0+cu128
+      - torchvision==0.22.0+cu128
+      - dill==0.3.8
+      - numpy==2.2.6
+      - Pillow==11.2.1
+      - scipy==1.15.3
+      - tqdm==4.67.1

@@ -1,0 +1,6 @@
+# PyTorch and torchvision are installed separately to select the CUDA build.
+dill==0.3.8
+numpy==2.2.6
+Pillow==11.2.1
+scipy==1.15.3
+tqdm==4.67.1

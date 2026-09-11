@@ -1,5 +1,7 @@
 # FedUL-GRA
 
+This paper has been accepted by ICA3PP 2026, and the link to the original text is [https://anonymous.4open.science/r/FedHUA-6399](https://github.com/liuzixiao09/FedUL-GRA)
+
 PyTorch research code for federated machine unlearning. The repository contains
 the FedAU-compatible training path and the FedUL-GRA independent dual-branch
 extension with calibrated negative evidence, gated retain adaptation, and
